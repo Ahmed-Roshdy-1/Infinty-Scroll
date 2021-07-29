@@ -1,2 +1,6 @@
 # Infinty Scroll
- App that implementing Scrolling forever
+## The app fetches photos and can see these photos scrolling forever 💯💥
+
+
+
+## ✅ the photos  fetched from Unsplash API

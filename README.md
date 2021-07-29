@@ -3,4 +3,4 @@
 
 
 
-## ✅ the photos  fetched from [Unsplash API](https:://unsplash.com/developers)
+## ✅ the photos  fetched from [Unsplash API](https://unsplash.com/developers)

@@ -3,5 +3,5 @@
 ## The app fetches photos and can see these photos scrolling forever 💯💥
 
 ## ✅ the photos fetched from [Unsplash API](https://unsplash.com/developers)
-## [link text itself]: http://www.reddit.com
+## [link text itself]:<a href='https://unsplash.com/developers' target="\_blank"></a?
 

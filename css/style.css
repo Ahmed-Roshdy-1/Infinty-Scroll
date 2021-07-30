@@ -16,6 +16,10 @@ h1 {
   letter-spacing: 5px;
 }
 
+h1 span {
+  color: #9d0208;
+}
+
 /* Loader */
 .loader {
   position: fixed;
@@ -23,7 +27,7 @@ h1 {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 1);
 }
 
 .loader img {
@@ -34,12 +38,13 @@ h1 {
 }
 
 .image-container {
-  width: 99%;
+  width: 97%;
   margin: 40px;
 }
 
 .image-container img {
   width: 30%;
+  height: 65ch;
   justify-content: space-around;
   margin: 10px;
 }

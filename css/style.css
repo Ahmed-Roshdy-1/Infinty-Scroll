@@ -34,12 +34,14 @@ h1 {
 }
 
 .image-container {
-  margin: 10px 30%;
+  width: 100%;
+  margin: 10px 40px;
 }
 
 .image-container img {
-  width: 100%;
-  margin-top: 10px;
+  width: 30%;
+  justify-content: center;
+  margin: 10px;
 }
 
 /* Media Quert to be responsive in every device*/
@@ -47,6 +49,9 @@ h1 {
 @media screen and (max-width: 900px) {
   h1 {
     font-size: 18px;
+  }
+  .image-container img {
+    width: 100%;
   }
   .image-container {
     margin: 10px;

@@ -1,4 +1,4 @@
-# Infinty Scroll [See live demo of the project](https://ahmed-roshdy-1.github.io/Infinty-Scroll/)
+# Infinty Scroll [See live demo of the project](https://ahmed-roshdy-1.github.io/Infinty-Scroll/index)
 
 ## The app fetches photos and can see these photos scrolling forever 💯💥
 

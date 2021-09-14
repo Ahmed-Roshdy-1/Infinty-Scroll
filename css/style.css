@@ -6,11 +6,7 @@ body {
   margin: 0;
   font-family: "Caveat", cursive, sans-serif, arial;
   /*background-color: whitesmoke;*/
-  background-image: linear-gradient(
-    0deg,
-    rgb(247, 247, 247) 23.8%,
-    rgb(252, 221, 221) 92%
-  );
+  background-image: linear-gradient(0deg, rgb(247, 247, 247) 23.8%, rgb(252, 221, 221) 92%);
 }
 
 h1 {
@@ -64,10 +60,7 @@ h1 span {
     font-weight: bolder;
   }
   .image-container img {
-    width: 100%;
-    margin: 10px;
-  }
-  .image-container {
-    margin: 10px;
+    width: 70%;
+    margin: 50px;
   }
 }
